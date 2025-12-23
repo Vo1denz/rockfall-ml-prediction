@@ -8,7 +8,7 @@ The system follows an end-to-end workflow combining data preprocessing, model tr
 <p align="center">
   <img src="docs/uml/Screenshot 2025-12-23 152847.png"
        alt="example"
-       width="800" />
+       width="1000" />
 </p>
 
 ---
