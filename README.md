@@ -5,6 +5,11 @@ This project is a **machine learning–based rockfall prediction system** with a
 
 The system follows an end-to-end workflow combining data preprocessing, model training, evaluation, and a web-based interface.
 
+<p align="center">
+  <img src="docs/uml/Screenshot 2025-12-23 152847.png"
+       alt="example"
+       width="520" />
+</p>
 ---
 
 ## Problem Statement
